@@ -157,5 +157,5 @@ Jira
 <h4 align="center">Get in touche through:</h4>
 <div align="center">
 <a href="https://www.linkedin.com/in/kevin-suarez-6a16752a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Kevin Suarez" height="30" width="40" /></a>
-<a href="suarezk453@gmail.com" ><img align="center" src="gmail-icon.svg" alt="Kevin Suarez" height="30" width="40" /></a>
+<a href="suarezk453@gmail.com" ><img align="center" src="gmail.svg" alt="Kevin Suarez" height="30" width="40" /></a>
 </div>
