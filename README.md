@@ -64,7 +64,7 @@ Dart
 <div align="center">
 
 <span align="center">
-<img width="30" height="30"  align="center" alt="hero image" src="/astro.svg"/>
+<img width="30" height="30"  align="center" alt="hero image" src="astro.svg"/>
 Astro
 </span>
 
@@ -79,12 +79,17 @@ Agular
 </span>
 
 <span align="center">
+<img width="30" height="30"  align="center" alt="hero image" src="spring.svg"/>
+Spring Boot
+</span>
+
+<span align="center">
 <img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"/>
 Laravel
 </span>
 
 <span align="center">
-<img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg"/>
+<img width="30" height="30"  align="center" alt="hero image" src="tailwindcss.svg"/>
 Tailwind
 </span>
 </div>
