@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" alt="hero image" src=""/>
+<img align="center" alt="hero image" src="logosk.png"/>
 <h1 align="center">Hey 👋, I'm Kevin Suarez</h1>
 <p align="center">I am a passionate developer, about creating robust and efficient mobile and backend applications. I have experience in a variety of technologies and frameworks, and I am always willing to learn new things.</p>
 <h2 align="center">About me</h2>
