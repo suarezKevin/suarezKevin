@@ -14,20 +14,20 @@ Here are some ideas to get you started:
 -->
 <img align="center" alt="hero image" src="logosk.png"/>
 <h1 align="center">Hey 👋, I'm Kevin Suarez</h1>
-<p align="center">I am a passionate developer, about creating robust and efficient mobile and backend applications. I have experience in a variety of technologies and frameworks, and I am always willing to learn new things.</p>
-<h2 align="center">About me</h2>
-<p align="center">Among my hobbies and other interests, I enjoy:</p>
+<h2 align="center">I am a passionate developer, about creating robust and efficient mobile and backend applications. I have experience in a variety of technologies and frameworks, and I am always willing to learn new things.</h2>
+<h1 align="center">About me</h1>
+<h2 align="center">Among my hobbies and other interests, I enjoy:</h2>
 
-- Listen to music 🎶
-- Video games 🎮
-- Travel and see new places 🛫
-- Swim 🏊‍♂️
-- Ride a bike 🚴‍♂️
+- ### Listen to music 🎶
+- ### Video games 🎮
+- ### Travel and see new places 🛫
+- ### Swim 🏊‍♂️
+- ### Ride a bike 🚴‍♂️
 
-Besides
+## Besides
 
-- You can check my work at [https://portfolio-kevinsuarez.netlify.app](https://portfolio-kevinsuarez.netlify.app)
-- Currently learning **Astro and Augmented Reality in unity**
+- ### You can check my work at [https://portfolio-kevinsuarez.netlify.app](https://portfolio-kevinsuarez.netlify.app)
+- ### Currently learning **Astro and Augmented Reality in unity**
 
 <h2 align="center">Technologies that I use ⚙️</h2>
 <h3 align="center">Languages</h3>
@@ -150,9 +150,7 @@ Jira
         alt="PazminoJose" /></p>
 </div>
 
-<h3 align="center">Eager to join forces?</h3>
-
-<h4 align="center">Get in touche through:</h4>
+<h3 align="center">Get in touche through:</h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/kevin-suarez-6a16752a7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Kevin Suarez" height="30" width="40" /></a>
 <a href="mailto:suarezk453@gmail.com" ><img align="center" src="gmail.svg" alt="Kevin Suarez" height="30" width="40" /></a>
