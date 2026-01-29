@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img align="center" alt="hero image" src="logosk.png"/>
-<h1 align="center">Hey 👋, I'm Kevin Suarez</h1>
 <h2 align="center">I am a passionate developer, about creating robust and efficient mobile and backend applications. I have experience in a variety of technologies and frameworks, and I am always willing to learn new things.</h2>
 <h1 align="center">About me</h1>
 <h2 align="center">Among my hobbies and other interests, I enjoy:</h2>
@@ -27,7 +26,7 @@ Here are some ideas to get you started:
 ## Besides
 
 - ### You can check my work at [https://portfolio-kevinsuarez.netlify.app](https://portfolio-kevinsuarez.netlify.app)
-- ### Currently learning **Astro and Augmented Reality in unity**
+<!-- - ### Currently learning **Astro and Augmented Reality in unity** -->
 
 <h2 align="center">Technologies that I use ⚙️</h2>
 <h3 align="center">Languages</h3>
@@ -82,7 +81,7 @@ Spring Boot
 </span>
 
 <span align="center">
-<img width="30" height="30"  align="center" alt="hero image" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"/>
+<img width="30" height="30"  align="center" alt="hero image" src="laravel.svg"/>
 Laravel
 </span>
 
@@ -144,10 +143,10 @@ Jira
 </p>
     <p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=suarezKevin&show_icons=true&locale=en&theme=radical"
-        alt="PazminoJose" /></p>
+        alt="suarezKevin" /></p>
     <p align="center"><img align="center"
         src="https://github-readme-stats.vercel.app/api?username=suarezKevin&show_icons=true&locale=en&theme=radical"
-        alt="PazminoJose" /></p>
+        alt="suarezKevin" /></p>
 </div>
 
 <h3 align="center">Get in touche through:</h3>
